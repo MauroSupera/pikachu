@@ -1,0 +1,89 @@
+[
+  {
+    "name": "🚨GAMES IN NIGHT🚨",
+    "groupId": "558194745485-1614644958@g.us",
+    "x9": false,
+    "antiimg": false,
+    "antivideo": false,
+    "antiaudio": false,
+    "antisticker": false,
+    "antidoc": true,
+    "antictt": true,
+    "antiloc": true,
+    "antilinkgp": true,
+    "antilinkhard": true,
+    "antifake": true,
+    "Odelete": false,
+    "antispam": false,
+    "antinotas": true,
+    "anticatalogo": true,
+    "sistemGold": false,
+    "visuUnica": true,
+    "registrarFIGUS": false,
+    "soadm": false,
+    "listanegra": [
+      "5519997513958@s.whatsapp.net",
+      "554498489518@s.whatsapp.net",
+      "559193618101@s.whatsapp.net",
+      "5521977075691@s.whatsapp.net",
+      "5521969564824@s.whatsapp.net"
+    ],
+    "advertir": [],
+    "prefixos": [
+      "!"
+    ],
+    "advertir2": [],
+    "legenda_estrangeiro": "🎈 ```OPA AMIGO, INFELIZMENTE NÚMERO FAKE ( GRINGO ) AQUI NÃO PODE```🎈",
+    "legenda_documento": "0",
+    "legenda_video": "0",
+    "legenda_imagem": "0",
+    "multiprefix": false,
+    "forca_ofc": [
+      {
+        "acertos": 0,
+        "erros": 0,
+        "palavra": [
+          "_",
+          "_",
+          "_",
+          "_"
+        ],
+        "escreveu": [],
+        "palavra_ofc": "gato",
+        "dica": "ele tem 4 patas, e o rugido dele começa com m 😉",
+        "tema": "animal"
+      }
+    ],
+    "minerar_gold": [],
+    "ausentes": [],
+    "forca_inc": true,
+    "antipalavrao": {
+      "active": false,
+      "palavras": []
+    },
+    "limitec": {
+      "active": true,
+      "quantidade": null
+    },
+    "wellcome": [
+      {
+        "bemvindo1": true,
+        "legendabv": "```🇧🇷OPAAAAA,SEJA BEM VINDO AO NOSSO GRUPO HEHEHE🇧🇷```\n\n#nomedogp#\n\n#numerodele#\n\n🔒𝑮𝑹𝑼𝑷𝑶 𝑭𝑬𝑪𝑯𝑨𝑫𝑶🔒\n𝑫𝑨𝑺: 𝟐 𝒉\n𝑨𝑻𝑬́: 𝟔 𝒉\n🔓 𝑨𝑩𝑹𝑬 𝑨𝑼𝑻𝑶𝑴𝑨́𝑻𝑰𝑪𝑶 🔓\n\n ```🎈LEIA AS REGRAS DO GRUPO QUE ESTÃO NA DESCRIÇÃO E SE DIVIRTA COM TODOS NÓS🎈```\n\n\n ```🎈CASO FAÇA ALGO DE ERRADO É BAN SEM VOLTA🎈```\n\n\n ```🎈GRUPO DE CONVERSAS ENTÃO NÃO FIQUE NA MOITA🎈```\n\nᴇɪɪɪ, ǫᴜᴇʀ ᴀʟᴜɢᴀʀ ᴇssᴇ ʙᴏᴛ ᴘᴀʀᴀ sᴇᴜ ɢʀᴜᴘᴏ???\nᴅɪɢɪᴛᴇ: #ᴀʟᴜɢᴀʀ",
+        "legendasaiu": 0
+      },
+      {
+        "bemvindo2": false,
+        "legendabv": "Olá #numerodele#, seja bem vindo (a)",
+        "legendasaiu": 0
+      }
+    ],
+    "simi1": false,
+    "simi2": false,
+    "autosticker": false,
+    "autoresposta": true,
+    "jogos": true,
+    "level": false,
+    "bangp": false,
+    "nsfw": false
+  }
+]

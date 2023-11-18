@@ -1,0 +1,78 @@
+[
+  {
+    "name": "🏆𝐴𝑀𝐼𝐺𝑂𝑆 𝑊𝐸𝐵🏆",
+    "groupId": "120363142910703051@g.us",
+    "x9": false,
+    "antiimg": false,
+    "antivideo": false,
+    "antiaudio": false,
+    "antisticker": false,
+    "antidoc": false,
+    "antictt": false,
+    "antiloc": false,
+    "antilinkgp": false,
+    "antilinkhard": false,
+    "antifake": false,
+    "Odelete": false,
+    "antispam": false,
+    "antinotas": false,
+    "anticatalogo": false,
+    "sistemGold": false,
+    "visuUnica": false,
+    "registrarFIGUS": false,
+    "soadm": false,
+    "listanegra": [],
+    "advertir": [],
+    "prefixos": [
+      "!"
+    ],
+    "advertir2": [],
+    "legenda_estrangeiro": "0",
+    "legenda_documento": "0",
+    "legenda_video": "0",
+    "legenda_imagem": "0",
+    "multiprefix": false,
+    "forca_ofc": [
+      {
+        "acertos": 0,
+        "erros": 0,
+        "palavra": [],
+        "escreveu": [],
+        "palavra_ofc": 0,
+        "dica": 0,
+        "tema": 0
+      }
+    ],
+    "minerar_gold": [],
+    "ausentes": [],
+    "forca_inc": false,
+    "antipalavrao": {
+      "active": false,
+      "palavras": []
+    },
+    "limitec": {
+      "active": false,
+      "quantidade": null
+    },
+    "wellcome": [
+      {
+        "bemvindo1": false,
+        "legendabv": "Olá #numerodele#, seja bem vindo (a)",
+        "legendasaiu": 0
+      },
+      {
+        "bemvindo2": true,
+        "legendabv": "```🌕✨OLA, ESSE É UM GRUPO QUE SERVE APENAS COMO PONTE, APENAS✨🌕```\n\n#nomedogp#\n\n#numerodele#\n\n\n ```🎈GRUPO AQUI🎈```\n( https://chat.whatsapp.com/GyGXptqKf5k9bpvd66KG7p )\n\n⚠️ᴏʙs: ᴀᴅɪᴄɪᴏɴᴇ sᴇᴜs ᴀᴍɪɢᴏs ᴀǫᴜɪ!⚠️\n\nᴠᴏᴄᴇ̂ ᴄᴏɴsᴇɢᴜᴇ, ᴍᴇsᴍᴏ ᴏ ɢʀᴜᴘᴏ ᴇsᴛᴀɴᴅᴏ ғᴇᴄʜᴀᴅᴏ ᴇ ᴠᴏᴄᴇ̂ ɴᴀ̃ᴏ sᴇɴᴅᴏ ᴀᴅᴍ!\nᴛᴏǫᴜᴇ ɴᴏs 3 ᴘᴏɴᴛᴏs ᴇ ᴀᴅɪᴄɪᴏɴᴇ sᴇᴜs ᴀᴍɪɢᴏs",
+        "legendasaiu": 0
+      }
+    ],
+    "simi1": false,
+    "simi2": false,
+    "autosticker": false,
+    "autoresposta": false,
+    "jogos": false,
+    "level": false,
+    "bangp": false,
+    "nsfw": false
+  }
+]

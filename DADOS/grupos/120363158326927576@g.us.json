@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Pokémon Universe",
+    "groupId": "120363158326927576@g.us",
+    "x9": false,
+    "antiimg": false,
+    "antivideo": false,
+    "antiaudio": false,
+    "antisticker": false,
+    "antidoc": false,
+    "antictt": false,
+    "antiloc": true,
+    "antilinkgp": false,
+    "antilinkhard": true,
+    "antifake": true,
+    "Odelete": false,
+    "antispam": false,
+    "antinotas": true,
+    "anticatalogo": true,
+    "sistemGold": false,
+    "visuUnica": false,
+    "registrarFIGUS": false,
+    "soadm": false,
+    "listanegra": [
+      "5514988261663@s.whatsapp.net",
+      "558194762436@s.whatsapp.net"
+    ],
+    "advertir": [],
+    "prefixos": [
+      "!"
+    ],
+    "advertir2": [],
+    "legenda_estrangeiro": "0",
+    "legenda_documento": "0",
+    "legenda_video": "0",
+    "legenda_imagem": "0",
+    "multiprefix": false,
+    "forca_ofc": [
+      {
+        "acertos": 0,
+        "erros": 0,
+        "palavra": [
+          "_",
+          "_",
+          "_",
+          "_"
+        ],
+        "escreveu": [],
+        "palavra_ofc": "gato",
+        "dica": "ele tem 4 patas, e o rugido dele começa com m 😉",
+        "tema": "animal"
+      }
+    ],
+    "minerar_gold": [],
+    "ausentes": [],
+    "forca_inc": true,
+    "antipalavrao": {
+      "active": false,
+      "palavras": []
+    },
+    "limitec": {
+      "active": false,
+      "quantidade": null
+    },
+    "wellcome": [
+      {
+        "bemvindo1": true,
+        "legendabv": "```OLAAA SEJA BEM VINDO AO NOSSO GRUPO``` \n#nomedogp#\n\n#numerodele#\n\n ```LEIA A DESCRIÇÃO DO GRUPO PARA FICAR SABENDO DE TODAS AS REGRAS DO GRUPO```\n\n ```QUALQUER COISA ERRADA RESULTARÁ EM BAN PERMANENTE!```\n\n _eiiii, quer alugar esse bot para seu grupo??? Digite ( #alugar )_",
+        "legendasaiu": 0
+      },
+      {
+        "bemvindo2": false,
+        "legendabv": "Olá #numerodele#, seja bem vindo (a)",
+        "legendasaiu": 0
+      }
+    ],
+    "simi1": false,
+    "simi2": false,
+    "autosticker": false,
+    "autoresposta": true,
+    "jogos": false,
+    "level": false,
+    "bangp": false,
+    "nsfw": false
+  }
+]

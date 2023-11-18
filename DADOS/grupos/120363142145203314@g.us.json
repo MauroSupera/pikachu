@@ -1,0 +1,78 @@
+[
+  {
+    "name": "🔥DIVULGAÇÃO DE GRUPOS🔥",
+    "groupId": "120363142145203314@g.us",
+    "x9": false,
+    "antiimg": false,
+    "antivideo": false,
+    "antiaudio": false,
+    "antisticker": false,
+    "antidoc": false,
+    "antictt": true,
+    "antiloc": true,
+    "antilinkgp": false,
+    "antilinkhard": false,
+    "antifake": false,
+    "Odelete": false,
+    "antispam": false,
+    "antinotas": true,
+    "anticatalogo": true,
+    "sistemGold": false,
+    "visuUnica": false,
+    "registrarFIGUS": false,
+    "soadm": false,
+    "listanegra": [],
+    "advertir": [],
+    "prefixos": [
+      "!"
+    ],
+    "advertir2": [],
+    "legenda_estrangeiro": "0",
+    "legenda_documento": "0",
+    "legenda_video": "0",
+    "legenda_imagem": "0",
+    "multiprefix": false,
+    "forca_ofc": [
+      {
+        "acertos": 0,
+        "erros": 0,
+        "palavra": [],
+        "escreveu": [],
+        "palavra_ofc": 0,
+        "dica": 0,
+        "tema": 0
+      }
+    ],
+    "minerar_gold": [],
+    "ausentes": [],
+    "forca_inc": false,
+    "antipalavrao": {
+      "active": false,
+      "palavras": []
+    },
+    "limitec": {
+      "active": true,
+      "quantidade": "4000"
+    },
+    "wellcome": [
+      {
+        "bemvindo1": true,
+        "legendabv": "```❤️APROVEITE 100% DOS GRUPOS❤️```\n\n#nomedogp#\n\n#numerodele#\n\n\n\n ```LINK DOS GRUPOS```\n👇👇👇👇👇👇👇👇👇👇\n\n\n*GRUPO 1:* (novas amizades)\nhttps://chat.whatsapp.com/HEiXnO0vf7HEliNRGHzNbN\n\n*GRUPO 2:* (novas amizades)\n\n\n*GRUPO 3:* (grupo de figurinhas)\nhttps://chat.whatsapp.com/CUNNC5Vetk51lptmVCpTdz\n\n*GRUPO 4:* (amizades)\n\n\n*GRUPO 5:* (conversas)\nhttps://chat.whatsapp.com/DJQBOEzfmC2IvY73i4Jrki\n\n\n ```✨ENTRE EM TODOS NOSSOS GRUPOS✨```",
+        "legendasaiu": 0
+      },
+      {
+        "bemvindo2": false,
+        "legendabv": "Olá #numerodele#, seja bem vindo (a)",
+        "legendasaiu": 0
+      }
+    ],
+    "simi1": false,
+    "simi2": false,
+    "autosticker": false,
+    "autoresposta": false,
+    "jogos": false,
+    "level": false,
+    "bangp": false,
+    "nsfw": false
+  }
+]

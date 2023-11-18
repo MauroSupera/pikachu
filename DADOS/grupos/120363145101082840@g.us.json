@@ -1,0 +1,78 @@
+[
+  {
+    "name": "☀️𝑁𝑂𝑉𝐴𝑆 𝐴𝑀𝐼𝑍𝐴𝐷𝐸𝑆🌕",
+    "groupId": "120363145101082840@g.us",
+    "x9": false,
+    "antiimg": false,
+    "antivideo": false,
+    "antiaudio": false,
+    "antisticker": false,
+    "antidoc": false,
+    "antictt": false,
+    "antiloc": false,
+    "antilinkgp": false,
+    "antilinkhard": false,
+    "antifake": false,
+    "Odelete": false,
+    "antispam": false,
+    "antinotas": false,
+    "anticatalogo": false,
+    "sistemGold": false,
+    "visuUnica": false,
+    "registrarFIGUS": false,
+    "soadm": false,
+    "listanegra": [],
+    "advertir": [],
+    "prefixos": [
+      "!"
+    ],
+    "advertir2": [],
+    "legenda_estrangeiro": "0",
+    "legenda_documento": "0",
+    "legenda_video": "0",
+    "legenda_imagem": "0",
+    "multiprefix": false,
+    "forca_ofc": [
+      {
+        "acertos": 0,
+        "erros": 0,
+        "palavra": [],
+        "escreveu": [],
+        "palavra_ofc": 0,
+        "dica": 0,
+        "tema": 0
+      }
+    ],
+    "minerar_gold": [],
+    "ausentes": [],
+    "forca_inc": false,
+    "antipalavrao": {
+      "active": false,
+      "palavras": []
+    },
+    "limitec": {
+      "active": false,
+      "quantidade": null
+    },
+    "wellcome": [
+      {
+        "bemvindo1": false,
+        "legendabv": "Olá #numerodele#, seja bem vindo (a)",
+        "legendasaiu": 0
+      },
+      {
+        "bemvindo2": true,
+        "legendabv": " ```❤️APROVEITE 100% DOS GRUPOS❤️```\n\n#nomedogp#\n\n#numerodele#\n\n\n ```LINK DOS GRUPOS```\n👇👇👇👇👇👇👇👇👇👇\n\n\n*GRUPO 1:* (novas amizades)\nhttps://chat.whatsapp.com/J7ixh7Eh2LqJ7wcVIFUbEn\n\n*GRUPO 2:*  (figurinhas)\nhttps://chat.whatsapp.com/DJQBOEzfmC2IvY73i4Jrki\n\n*GRUPO 3:* \n\n\n*GRUPO 4:* \n\n\n*GRUPO 5:* \n\n\n\n ```✨ENTRE EM TODOS NOSSOS GRUPOS✨```",
+        "legendasaiu": 0
+      }
+    ],
+    "simi1": false,
+    "simi2": false,
+    "autosticker": false,
+    "autoresposta": false,
+    "jogos": false,
+    "level": false,
+    "bangp": false,
+    "nsfw": false
+  }
+]

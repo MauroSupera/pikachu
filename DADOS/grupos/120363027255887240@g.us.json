@@ -1,0 +1,102 @@
+[
+  {
+    "name": "ゃ🆂.🅺.🆄.🆁⌯ꌗ𝘵𝘪𝘤𝘬𝘦𝘳𝘴𓄴  ࣪༱",
+    "groupId": "120363027255887240@g.us",
+    "x9": false,
+    "antiimg": false,
+    "antivideo": false,
+    "antiaudio": false,
+    "antisticker": false,
+    "antidoc": false,
+    "antictt": false,
+    "antiloc": false,
+    "antilinkgp": false,
+    "antilinkhard": false,
+    "antifake": false,
+    "Odelete": false,
+    "antispam": false,
+    "antinotas": false,
+    "anticatalogo": false,
+    "sistemGold": false,
+    "visuUnica": false,
+    "registrarFIGUS": false,
+    "soadm": false,
+    "listanegra": [
+      "5511981170356@s.whatsapp.net",
+      "5511932332354@s.whatsapp.net",
+      "17819199075@s.whatsapp.net",
+      "554599591008@s.whatsapp.net",
+      "5511959264504@s.whatsapp.net",
+      "553492678041@s.whatsapp.net",
+      "5511915504958@s.whatsapp.net"
+    ],
+    "advertir": [],
+    "prefixos": [
+      "!"
+    ],
+    "advertir2": [],
+    "legenda_estrangeiro": "0",
+    "legenda_documento": "0",
+    "legenda_video": "0",
+    "legenda_imagem": "0",
+    "multiprefix": false,
+    "forca_ofc": [
+      {
+        "acertos": 0,
+        "erros": 0,
+        "palavra": [
+          "_",
+          "_",
+          "_",
+          "_"
+        ],
+        "escreveu": [],
+        "palavra_ofc": "gato",
+        "dica": "ele tem 4 patas, e o rugido dele começa com m 😉",
+        "tema": "animal"
+      }
+    ],
+    "minerar_gold": [],
+    "ausentes": [
+      {
+        "id": "556798616059@s.whatsapp.net",
+        "msg": "Estou comendo sua mãe, não me marca membro comun"
+      },
+      {
+        "id": "5511981170356@s.whatsapp.net",
+        "msg": "Batendo uma"
+      }
+    ],
+    "forca_inc": true,
+    "antipalavrao": {
+      "active": true,
+      "palavras": [
+        "filho da puta"
+      ]
+    },
+    "limitec": {
+      "active": false,
+      "quantidade": null
+    },
+    "wellcome": [
+      {
+        "bemvindo1": true,
+        "legendabv": "BEM VINDO CORNO",
+        "legendasaiu": "ᎷᎪᏆՏ ႮᎷ(Ꭺ) ᎠᎬՏᏢᎡϴᏙᏆᎠϴ ᎠᎬ ᏴᎬᏞᎬᏃᎪ ՏᎪᏆႮ"
+      },
+      {
+        "bemvindo2": false,
+        "legendabv": "Olá #numerodele#, seja bem vindo (a)",
+        "legendasaiu": 0
+      }
+    ],
+    "simi1": false,
+    "simi2": false,
+    "autosticker": false,
+    "autoresposta": true,
+    "jogos": true,
+    "level": false,
+    "bangp": false,
+    "nsfw": false
+  }
+]

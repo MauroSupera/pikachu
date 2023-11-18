@@ -1,0 +1,78 @@
+[
+  {
+    "name": "❤‍🔥😎 𝕯𝖊 𝕿𝖚𝖉𝖔 𝖀𝖒 𝕻𝖔𝖚𝖈𝖔 👾📱™",
+    "groupId": "120363140171877175@g.us",
+    "x9": false,
+    "antiimg": false,
+    "antivideo": false,
+    "antiaudio": false,
+    "antisticker": false,
+    "antidoc": false,
+    "antictt": true,
+    "antiloc": false,
+    "antilinkgp": false,
+    "antilinkhard": true,
+    "antifake": true,
+    "Odelete": false,
+    "antispam": false,
+    "antinotas": true,
+    "anticatalogo": false,
+    "sistemGold": false,
+    "visuUnica": false,
+    "registrarFIGUS": false,
+    "soadm": false,
+    "listanegra": [],
+    "advertir": [],
+    "prefixos": [
+      "!"
+    ],
+    "advertir2": [],
+    "legenda_estrangeiro": "🔊 ```NÚMERO FAKE AQUI NÃO```",
+    "legenda_documento": "0",
+    "legenda_video": "0",
+    "legenda_imagem": "0",
+    "multiprefix": false,
+    "forca_ofc": [
+      {
+        "acertos": 0,
+        "erros": 0,
+        "palavra": [],
+        "escreveu": [],
+        "palavra_ofc": 0,
+        "dica": 0,
+        "tema": 0
+      }
+    ],
+    "minerar_gold": [],
+    "ausentes": [],
+    "forca_inc": false,
+    "antipalavrao": {
+      "active": false,
+      "palavras": []
+    },
+    "limitec": {
+      "active": true,
+      "quantidade": "4000"
+    },
+    "wellcome": [
+      {
+        "bemvindo1": false,
+        "legendabv": "*BEM VINDO(A) AO GRUPO:*\n\n#nomedogp#\n\n#numerodele#\n\n💎•𝑬𝑵𝑻𝑹𝑶𝑼 𝑺𝑬 𝑨𝑷𝑹𝑬𝑺𝑬𝑵𝑻𝑨•\n📸 •F𝜣T𝜣\n🧧 •N𝜣ME\n⛩ •CID∆DE\n🗓️ •ID∆DE\n⚠️ •LEI∆ ∆S REGR∆S",
+        "legendasaiu": "0"
+      },
+      {
+        "bemvindo2": true,
+        "legendabv": "*BEM VINDO(A) AO GRUPO:*\n\n#nomedogp#\n\n#numerodele#\n\n💎•𝑬𝑵𝑻𝑹𝑶𝑼 𝑺𝑬 𝑨𝑷𝑹𝑬𝑺𝑬𝑵𝑻𝑨•\n📸 •F𝜣T𝜣\n🧧 •N𝜣ME\n⛩ •CID∆DE\n🗓️ •ID∆DE\n⚠️ •LEI∆ ∆S REGR∆S",
+        "legendasaiu": 0
+      }
+    ],
+    "simi1": false,
+    "simi2": false,
+    "autosticker": false,
+    "autoresposta": true,
+    "jogos": false,
+    "level": false,
+    "bangp": false,
+    "nsfw": false
+  }
+]

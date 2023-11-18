@@ -1,0 +1,87 @@
+[
+  {
+    "name": "𝑮𝑹𝑼𝑷𝑶 𝑶𝑭𝑰𝑪𝑰𝑨𝑳 - [ 𝑷𝑰𝑲𝑨𝑪𝑯𝑼 - 𝑩𝑶𝑻 𝒗𝟏 ]",
+    "groupId": "120363140923595307@g.us",
+    "x9": false,
+    "antiimg": false,
+    "antivideo": false,
+    "antiaudio": false,
+    "antisticker": false,
+    "antidoc": false,
+    "antictt": false,
+    "antiloc": false,
+    "antilinkgp": false,
+    "antilinkhard": false,
+    "antifake": true,
+    "Odelete": false,
+    "antispam": false,
+    "antinotas": false,
+    "anticatalogo": false,
+    "sistemGold": false,
+    "visuUnica": true,
+    "registrarFIGUS": false,
+    "soadm": false,
+    "listanegra": [
+      "559984469565@s.whatsapp.net"
+    ],
+    "advertir": [],
+    "prefixos": [
+      "!"
+    ],
+    "advertir2": [],
+    "legenda_estrangeiro": "```✨GRUPO OFICIAL DO PIKACHU BOT NÃO PERMITE NÚMERO FAKE ( GRINGO )✨```",
+    "legenda_documento": "0",
+    "legenda_video": "0",
+    "legenda_imagem": "0",
+    "multiprefix": false,
+    "forca_ofc": [
+      {
+        "acertos": 0,
+        "erros": 0,
+        "palavra": [
+          "_",
+          "_",
+          "_",
+          "_"
+        ],
+        "escreveu": [],
+        "palavra_ofc": "gato",
+        "dica": "ele tem 4 patas, e o rugido dele começa com m 😉",
+        "tema": "animal"
+      }
+    ],
+    "minerar_gold": [],
+    "ausentes": [],
+    "forca_inc": false,
+    "antipalavrao": {
+      "active": true,
+      "palavras": [
+        "r$"
+      ]
+    },
+    "limitec": {
+      "active": true,
+      "quantidade": "2000"
+    },
+    "wellcome": [
+      {
+        "bemvindo1": true,
+        "legendabv": "🎈𝑂𝐿𝐴, 𝐸𝑆𝑆𝐸 𝐸́ 𝑂 𝐺𝑅𝑈𝑃𝑂 𝑂𝐹𝐼𝐶𝐼𝐴𝐿 𝐷𝑂 𝑃𝐼𝐾𝐴𝐶𝐻𝑈 𝐵𝑂𝑇🎈\n\n#numerodele#\n\n🎈𝑅𝐸𝑆𝑃𝐸𝐼𝑇𝑂 𝑆𝐸𝑀𝑃𝑅𝐸!🎈\n\n𝑆𝑂́ 𝑆𝐸𝑅𝐴̃𝑂 𝑃𝐸𝑅𝑀𝐼𝑇𝐼𝐷𝑂𝑆 𝑁𝑈́𝑀𝐸𝑅𝑂𝑆 𝑃𝐸𝑆𝑆𝑂𝐴𝐼𝑆\n( 𝑁𝐴̃𝑂 𝑇𝑂𝐿𝐸𝑅𝐴𝑀𝑂𝑆 𝐷𝐸𝑆𝑂𝑅𝐷𝐸𝑀 )\n\n𝑃𝐴𝑅𝐴 𝐴𝐿𝑈𝐺𝐴𝑅 𝑂 𝐵𝑂𝑇 𝑃𝐼𝐾𝐴𝐶𝐻𝑈, 𝐷𝐼𝐺𝐼𝑇𝐸:\n#𝐴𝐿𝑈𝐺𝐴𝑅\n\n\n𝑅𝐸𝑆𝑃𝐸𝐼𝑇𝑂 𝐸 𝐻𝑂𝑁𝐸𝑆𝑇𝐼𝐷𝐴𝐷𝐸 𝑆𝐸𝑀𝑃𝑅𝐸!",
+        "legendasaiu": 0
+      },
+      {
+        "bemvindo2": false,
+        "legendabv": "Olá #numerodele#, seja bem vindo (a)",
+        "legendasaiu": 0
+      }
+    ],
+    "simi1": false,
+    "simi2": false,
+    "autosticker": false,
+    "autoresposta": true,
+    "jogos": true,
+    "level": false,
+    "bangp": false,
+    "nsfw": false
+  }
+]

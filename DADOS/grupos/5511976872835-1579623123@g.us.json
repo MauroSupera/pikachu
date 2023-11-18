@@ -1,0 +1,78 @@
+[
+  {
+    "name": "𒅒⃢🚩TROPA DOS DADOS𒅒⃢🚩",
+    "groupId": "5511976872835-1579623123@g.us",
+    "x9": false,
+    "antiimg": false,
+    "antivideo": false,
+    "antiaudio": false,
+    "antisticker": false,
+    "antidoc": false,
+    "antictt": true,
+    "antiloc": false,
+    "antilinkgp": false,
+    "antilinkhard": true,
+    "antifake": false,
+    "Odelete": false,
+    "antispam": false,
+    "antinotas": true,
+    "anticatalogo": true,
+    "sistemGold": false,
+    "visuUnica": false,
+    "registrarFIGUS": false,
+    "soadm": false,
+    "listanegra": [],
+    "advertir": [],
+    "prefixos": [
+      "!"
+    ],
+    "advertir2": [],
+    "legenda_estrangeiro": "0",
+    "legenda_documento": "0",
+    "legenda_video": "0",
+    "legenda_imagem": "0",
+    "multiprefix": false,
+    "forca_ofc": [
+      {
+        "acertos": 0,
+        "erros": 0,
+        "palavra": [],
+        "escreveu": [],
+        "palavra_ofc": 0,
+        "dica": 0,
+        "tema": 0
+      }
+    ],
+    "minerar_gold": [],
+    "ausentes": [],
+    "forca_inc": false,
+    "antipalavrao": {
+      "active": false,
+      "palavras": []
+    },
+    "limitec": {
+      "active": false,
+      "quantidade": null
+    },
+    "wellcome": [
+      {
+        "bemvindo1": true,
+        "legendabv": "🎲  ```SEJA BEM VINDO``` 🎲 \n\n#numerodele#\n\n🔥 *AÇÃO PARA GANHAR DADOS TODOS OS DIAS AS APÓS AS 19H POR FAVOR AGUARDE* 🔥\n\n⚠️ *SE TIVER DUVIDAS CHAME O SONIC OU OUTRO ADM NO PV*⚠️\n\n 🚫 *PROIBIDO FAZER TROCA DE CARTAS*  🚫\n\n*PRIMEIRO E MELHOR GRUPO DE DADOS O RESTO E IMITAÇÃO* 💪🏻\n\n#nomedogp#",
+        "legendasaiu": 0
+      },
+      {
+        "bemvindo2": false,
+        "legendabv": "Olá #numerodele#, seja bem vindo (a)",
+        "legendasaiu": 0
+      }
+    ],
+    "simi1": false,
+    "simi2": false,
+    "autosticker": false,
+    "autoresposta": true,
+    "jogos": false,
+    "level": false,
+    "bangp": false,
+    "nsfw": false
+  }
+]

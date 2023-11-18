@@ -1,0 +1,80 @@
+[
+  {
+    "name": "Grupo de figurinhas",
+    "groupId": "120363028233612438@g.us",
+    "x9": false,
+    "antiimg": false,
+    "antivideo": false,
+    "antiaudio": false,
+    "antisticker": false,
+    "antidoc": true,
+    "antictt": true,
+    "antiloc": true,
+    "antilinkgp": true,
+    "antilinkhard": true,
+    "antifake": true,
+    "Odelete": false,
+    "antispam": false,
+    "antinotas": true,
+    "anticatalogo": true,
+    "sistemGold": false,
+    "visuUnica": false,
+    "registrarFIGUS": false,
+    "soadm": false,
+    "listanegra": [
+      "559193618101@s.whatsapp.net"
+    ],
+    "advertir": [],
+    "prefixos": [
+      "!"
+    ],
+    "advertir2": [],
+    "legenda_estrangeiro": "0",
+    "legenda_documento": "0",
+    "legenda_video": "0",
+    "legenda_imagem": "0",
+    "multiprefix": false,
+    "forca_ofc": [
+      {
+        "acertos": 0,
+        "erros": 0,
+        "palavra": [],
+        "escreveu": [],
+        "palavra_ofc": 0,
+        "dica": 0,
+        "tema": 0
+      }
+    ],
+    "minerar_gold": [],
+    "ausentes": [],
+    "forca_inc": false,
+    "antipalavrao": {
+      "active": false,
+      "palavras": []
+    },
+    "limitec": {
+      "active": false,
+      "quantidade": null
+    },
+    "wellcome": [
+      {
+        "bemvindo1": true,
+        "legendabv": "```🤴🏼OLAAA 👋 SEJA MUITO BEM VINDO AO NOSSO GRUPO DE FIGURINHAS🤴🏼```\n\n#numerodele#\n\n#nomedogp#\n\n ```🎈LEIA A DESCRIÇÃO DO GRUPO ( LA TEM TODAS AS REGRAS )🎈```\n\n ```🎈GRUPO DE FIGURINHAS, VENHA COMPARTILHAR SUAS FIGURINHAS ENGRAÇADAS AQUI🎈``` \n\n ```🎈APROVEITE E VENHA FAZER NOVAS AMIZADES🎈```\n\n ```⚠️PROIBIDO FIGURINHAS DE:⚠️``` \n ```GORE``` \n ```CONTEUDO +18```\n\n ```APROVEITE O BOT DO GRUPO PARA TRANSFORMAR FOTOS E VIDEOS EM FIGURINHAS ( DIGITE !s ) E MARQUE UMA IMAGEM OU VIDEO DE ATÉ 9 SEGUNDOS```\n\n ```🎈SEJA BEM VINDO🎈```",
+        "legendasaiu": 0
+      },
+      {
+        "bemvindo2": false,
+        "legendabv": "Olá #numerodele#, seja bem vindo (a)",
+        "legendasaiu": 0
+      }
+    ],
+    "simi1": false,
+    "simi2": false,
+    "autosticker": false,
+    "autoresposta": false,
+    "jogos": false,
+    "level": false,
+    "bangp": false,
+    "nsfw": false
+  }
+]

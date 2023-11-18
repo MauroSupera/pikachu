@@ -1,0 +1,83 @@
+[
+  {
+    "name": "🔮⚜️🅔🅝🅒🅞🅝🅣🅡🅞 🅓🅞🅢 🅐🅢🅣🅡🅞🅢⚜️🔮",
+    "groupId": "120363055019137855@g.us",
+    "x9": false,
+    "antiimg": false,
+    "antivideo": false,
+    "antiaudio": false,
+    "antisticker": false,
+    "antidoc": false,
+    "antictt": false,
+    "antiloc": false,
+    "antilinkgp": false,
+    "antilinkhard": true,
+    "antifake": true,
+    "Odelete": false,
+    "antispam": false,
+    "antinotas": true,
+    "anticatalogo": false,
+    "sistemGold": false,
+    "visuUnica": true,
+    "registrarFIGUS": false,
+    "soadm": false,
+    "listanegra": [
+      "7798076547@s.whatsapp.net",
+      "5521999964841@s.whatsapp.net",
+      "201032425821@s.whatsapp.net",
+      "557182865301@s.whatsapp.net"
+    ],
+    "advertir": [],
+    "prefixos": [
+      "!"
+    ],
+    "advertir2": [],
+    "legenda_estrangeiro": "0",
+    "legenda_documento": "0",
+    "legenda_video": "0",
+    "legenda_imagem": "0",
+    "multiprefix": false,
+    "forca_ofc": [
+      {
+        "acertos": 0,
+        "erros": 0,
+        "palavra": [],
+        "escreveu": [],
+        "palavra_ofc": 0,
+        "dica": 0,
+        "tema": 0
+      }
+    ],
+    "minerar_gold": [],
+    "ausentes": [],
+    "forca_inc": false,
+    "antipalavrao": {
+      "active": false,
+      "palavras": []
+    },
+    "limitec": {
+      "active": false,
+      "quantidade": null
+    },
+    "wellcome": [
+      {
+        "bemvindo1": true,
+        "legendabv": "```OLAAA SEJA BEM VINDO AO NOSSO GRUPO``` \n#nomedogp#\n\n#numerodele#\n\n ```LEIA A DESCRIÇÃO DO GRUPO PARA FICAR SABENDO DE TODAS AS REGRAS DO GRUPO```\n\n ```QUALQUER COISA ERRADA RESULTARÁ EM BAN PERMANENTE!```\n\n _eiiii, quer alugar esse bot para seu grupo??? Digite ( #alugar )_",
+        "legendasaiu": "Já vai tarde: #numerodele# \n\nGrupo: #nomedogp#\n\nPrefixo do bot : #prefixo#"
+      },
+      {
+        "bemvindo2": false,
+        "legendabv": "Olá #numerodele#, seja bem vindo (a)",
+        "legendasaiu": 0
+      }
+    ],
+    "simi1": false,
+    "simi2": false,
+    "autosticker": false,
+    "autoresposta": false,
+    "jogos": true,
+    "level": false,
+    "bangp": false,
+    "nsfw": false
+  }
+]

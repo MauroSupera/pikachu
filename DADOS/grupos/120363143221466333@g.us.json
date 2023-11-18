@@ -1,0 +1,78 @@
+[
+  {
+    "name": "GANHE DADOS! 🎲",
+    "groupId": "120363143221466333@g.us",
+    "x9": false,
+    "antiimg": false,
+    "antivideo": false,
+    "antiaudio": false,
+    "antisticker": false,
+    "antidoc": true,
+    "antictt": true,
+    "antiloc": true,
+    "antilinkgp": false,
+    "antilinkhard": false,
+    "antifake": false,
+    "Odelete": false,
+    "antispam": false,
+    "antinotas": true,
+    "anticatalogo": true,
+    "sistemGold": false,
+    "visuUnica": false,
+    "registrarFIGUS": false,
+    "soadm": false,
+    "listanegra": [],
+    "advertir": [],
+    "prefixos": [
+      "!"
+    ],
+    "advertir2": [],
+    "legenda_estrangeiro": "0",
+    "legenda_documento": "0",
+    "legenda_video": "0",
+    "legenda_imagem": "0",
+    "multiprefix": false,
+    "forca_ofc": [
+      {
+        "acertos": 0,
+        "erros": 0,
+        "palavra": [],
+        "escreveu": [],
+        "palavra_ofc": 0,
+        "dica": 0,
+        "tema": 0
+      }
+    ],
+    "minerar_gold": [],
+    "ausentes": [],
+    "forca_inc": false,
+    "antipalavrao": {
+      "active": false,
+      "palavras": []
+    },
+    "limitec": {
+      "active": false,
+      "quantidade": null
+    },
+    "wellcome": [
+      {
+        "bemvindo1": true,
+        "legendabv": "*Olá, seja bem-vindo a comunidade*\n#nomedogp#\n\n#numerodele#\n\n\n*Grupo focado e baseado em ganhos de DADOS*\n*- Duas opções PAGA ou GRÁTIS*\n*Grátis você PRECISA (OBRIGÁTORIAMENTE) Criar duas contas de facebook fake*\n*Pago você PRECISA (OBRIGÁTORIAMENTE) Pagar R$7,00*\n\n*Como FUNCIONA? Simples, te respondo em minutos, o MONOPOLY GO! Recompensa a cada jogador que tem seu ACESSO pela PRIMEIRA VEZ (Ganhando 100 DADOS) <--- A cada pessoa adicionada*\n\n*Tem interesse? Chama o @Fábio no PRIVADO!*\n\n ```LINK DO GRUPO:``` \n( https://chat.whatsapp.com/KmHkyn5BdrV29F85BbTr3U )",
+        "legendasaiu": 0
+      },
+      {
+        "bemvindo2": false,
+        "legendabv": "Olá #numerodele#, seja bem vindo (a)",
+        "legendasaiu": 0
+      }
+    ],
+    "simi1": false,
+    "simi2": false,
+    "autosticker": false,
+    "autoresposta": false,
+    "jogos": false,
+    "level": false,
+    "bangp": false,
+    "nsfw": false
+  }
+]

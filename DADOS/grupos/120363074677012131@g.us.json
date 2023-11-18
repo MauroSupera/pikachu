@@ -1,0 +1,78 @@
+[
+  {
+    "name": "🏳️‍🌈 ZP - ZONA DE PERIGO 🏳‍⚧",
+    "groupId": "120363074677012131@g.us",
+    "x9": false,
+    "antiimg": false,
+    "antivideo": false,
+    "antiaudio": false,
+    "antisticker": false,
+    "antidoc": true,
+    "antictt": true,
+    "antiloc": false,
+    "antilinkgp": false,
+    "antilinkhard": false,
+    "antifake": true,
+    "Odelete": false,
+    "antispam": false,
+    "antinotas": true,
+    "anticatalogo": true,
+    "sistemGold": false,
+    "visuUnica": false,
+    "registrarFIGUS": false,
+    "soadm": false,
+    "listanegra": [],
+    "advertir": [],
+    "prefixos": [
+      "!"
+    ],
+    "advertir2": [],
+    "legenda_estrangeiro": "0",
+    "legenda_documento": "0",
+    "legenda_video": "0",
+    "legenda_imagem": "0",
+    "multiprefix": false,
+    "forca_ofc": [
+      {
+        "acertos": 0,
+        "erros": 0,
+        "palavra": [],
+        "escreveu": [],
+        "palavra_ofc": 0,
+        "dica": 0,
+        "tema": 0
+      }
+    ],
+    "minerar_gold": [],
+    "ausentes": [],
+    "forca_inc": false,
+    "antipalavrao": {
+      "active": false,
+      "palavras": []
+    },
+    "limitec": {
+      "active": false,
+      "quantidade": null
+    },
+    "wellcome": [
+      {
+        "bemvindo1": true,
+        "legendabv": "🏳‍⚧🏳️‍🌈⚠️Bem vindxs⚠️🏳️‍🌈🏳‍⚧  \n#nomedogp#\n\n#numerodele#\n\nSe apresentem com:\nFoto:\nNome:\nIdade:\nSexualidade:\nSigno:\nEstado Civil:\nOnde mora:\n\nSiga nossa página do insta:\nInstagram.com/_zonadeperigo_\n\n\nSintam-se acolhidas, divirtam-se, flertem e beijem muito 😏\n\n_Você está na zona de perigo 😏⚠️_\n\nQualquer dúvida, pode chamar as ADMs no pv",
+        "legendasaiu": 0
+      },
+      {
+        "bemvindo2": false,
+        "legendabv": "Olá #numerodele#, seja bem vindo (a)",
+        "legendasaiu": 0
+      }
+    ],
+    "simi1": false,
+    "simi2": false,
+    "autosticker": false,
+    "autoresposta": false,
+    "jogos": true,
+    "level": false,
+    "bangp": false,
+    "nsfw": false
+  }
+]

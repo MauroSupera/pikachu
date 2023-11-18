@@ -1,0 +1,78 @@
+[
+  {
+    "name": "Guilda dos protinhas",
+    "groupId": "120363027963086153@g.us",
+    "x9": false,
+    "antiimg": false,
+    "antivideo": false,
+    "antiaudio": false,
+    "antisticker": false,
+    "antidoc": false,
+    "antictt": false,
+    "antiloc": false,
+    "antilinkgp": false,
+    "antilinkhard": false,
+    "antifake": false,
+    "Odelete": false,
+    "antispam": false,
+    "antinotas": false,
+    "anticatalogo": false,
+    "sistemGold": false,
+    "visuUnica": false,
+    "registrarFIGUS": false,
+    "soadm": false,
+    "listanegra": [],
+    "advertir": [],
+    "prefixos": [
+      "!"
+    ],
+    "advertir2": [],
+    "legenda_estrangeiro": "0",
+    "legenda_documento": "0",
+    "legenda_video": "0",
+    "legenda_imagem": "0",
+    "multiprefix": false,
+    "forca_ofc": [
+      {
+        "acertos": 0,
+        "erros": 0,
+        "palavra": [],
+        "escreveu": [],
+        "palavra_ofc": 0,
+        "dica": 0,
+        "tema": 0
+      }
+    ],
+    "minerar_gold": [],
+    "ausentes": [],
+    "forca_inc": false,
+    "antipalavrao": {
+      "active": false,
+      "palavras": []
+    },
+    "limitec": {
+      "active": false,
+      "quantidade": null
+    },
+    "wellcome": [
+      {
+        "bemvindo1": true,
+        "legendabv": "```OPAAAAA BEM VINDO AO NOSSO GRUPO``` \n\n#numerodele# \n\n#nomedogp#\n\n _SEJA MUITO BEM VINDO, LEIA AS REGRAS NA DESCRIÇÃO DO GRUPO E SE DIVIRTA COM TODOS NÓS_ \n\n _CASO FAÇA ALGO DE ERRADO, RESULTARÁ EM BAN PERMANENTE, VLW_ ❤️🤩\n\n\n_EII APROVEITANDO A OCASIÃO, SE INSCREVE LA NO MEU CANAL? NA HUMILDA?_\n_PFVR LINK:👇_\n\n_( https://youtu.be/Yn3HhYcDuxw )_\n\n\n\n ```EIIIII quer alugar esse bot do grupo para seu grupo? \nDigite: !alugar```",
+        "legendasaiu": "TCHAUUU, SAIO DO GRUPO 👋🙋‍♂️"
+      },
+      {
+        "bemvindo2": false,
+        "legendabv": "Olá #numerodele#, seja bem vindo (a)",
+        "legendasaiu": 0
+      }
+    ],
+    "simi1": false,
+    "simi2": false,
+    "autosticker": true,
+    "autoresposta": true,
+    "jogos": false,
+    "level": false,
+    "bangp": false,
+    "nsfw": true
+  }
+]

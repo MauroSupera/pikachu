@@ -1,0 +1,95 @@
+[
+  {
+    "name": "𝖘í𝖙𝖎𝖔 𝖉𝖆 𝖆𝖋𝖔𝖓𝖘𝖎𝖓𝖍𝖆",
+    "groupId": "120363141882165952@g.us",
+    "x9": false,
+    "antiimg": false,
+    "antivideo": false,
+    "antiaudio": false,
+    "antisticker": false,
+    "antidoc": false,
+    "antictt": false,
+    "antiloc": false,
+    "antilinkgp": false,
+    "antilinkhard": true,
+    "antifake": true,
+    "Odelete": false,
+    "antispam": false,
+    "antinotas": false,
+    "anticatalogo": false,
+    "sistemGold": false,
+    "visuUnica": false,
+    "registrarFIGUS": false,
+    "soadm": false,
+    "listanegra": [
+      "5521966042539@s.whatsapp.net",
+      "557182595738@s.whatsapp.net",
+      "558586788782@s.whatsapp.net",
+      "557187526063@s.whatsapp.net",
+      "554788806573@s.whatsapp.net",
+      "555181653788@s.whatsapp.net",
+      "555189981242@s.whatsapp.net",
+      "556681332561@s.whatsapp.net",
+      "556281335495@s.whatsapp.net",
+      "5511949679099@s.whatsapp.net",
+      "5511983485744@s.whatsapp.net",
+      "5527997584895@s.whatsapp.net",
+      "5511958588699@s.whatsapp.net",
+      "553171243050@s.whatsapp.net",
+      "5521979059916@s.whatsapp.net",
+      "5521976511742@s.whatsapp.net"
+    ],
+    "advertir": [],
+    "prefixos": [
+      "!"
+    ],
+    "advertir2": [],
+    "legenda_estrangeiro": "0",
+    "legenda_documento": "0",
+    "legenda_video": "0",
+    "legenda_imagem": "0",
+    "multiprefix": false,
+    "forca_ofc": [
+      {
+        "acertos": 0,
+        "erros": 0,
+        "palavra": [],
+        "escreveu": [],
+        "palavra_ofc": 0,
+        "dica": 0,
+        "tema": 0
+      }
+    ],
+    "minerar_gold": [],
+    "ausentes": [],
+    "forca_inc": false,
+    "antipalavrao": {
+      "active": false,
+      "palavras": []
+    },
+    "limitec": {
+      "active": false,
+      "quantidade": null
+    },
+    "wellcome": [
+      {
+        "bemvindo1": true,
+        "legendabv": "𝐒𝐞𝐣𝐚 𝐛𝐞𝐦 𝐯𝐢𝐧𝐝𝐨 𝐚𝐨 𝐒𝐢𝐭𝐢𝐨 𝐝𝐚 𝐚𝐟𝐨𝐧𝐬𝐢𝐧𝐡𝐚 \n༺-------------------------------------------------༻\n::: (\\_(\\                   𝕊𝕖 𝕒𝕡𝕣𝕖𝕤𝕖𝕟𝕥𝕖 𝕔𝕠𝕞\n*: (=’ :’) :                      𝔽𝕠𝕥𝕠 𝕖 𝕚𝕕𝕒𝕕𝕖                   \n•.. (,(”)(”)¤°.¸¸.•´¯`»\n\n#numerodele#",
+        "legendasaiu": 0
+      },
+      {
+        "bemvindo2": false,
+        "legendabv": "Olá #numerodele#, seja bem vindo (a)",
+        "legendasaiu": 0
+      }
+    ],
+    "simi1": false,
+    "simi2": false,
+    "autosticker": false,
+    "autoresposta": true,
+    "jogos": true,
+    "level": false,
+    "bangp": false,
+    "nsfw": false
+  }
+]

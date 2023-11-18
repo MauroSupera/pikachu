@@ -1,0 +1,91 @@
+[
+  {
+    "name": "🌻፝⃔⃝҉❁፝⃔⃝🦋🅼🅰🅺🆃🆄🅱🌻፝⃔⃝҉❁፝⃔⃝🦋",
+    "groupId": "120363130615983226@g.us",
+    "x9": false,
+    "antiimg": false,
+    "antivideo": false,
+    "antiaudio": false,
+    "antisticker": false,
+    "antidoc": true,
+    "antictt": true,
+    "antiloc": true,
+    "antilinkgp": false,
+    "antilinkhard": true,
+    "antifake": true,
+    "Odelete": false,
+    "antispam": false,
+    "antinotas": true,
+    "anticatalogo": true,
+    "sistemGold": false,
+    "visuUnica": true,
+    "registrarFIGUS": false,
+    "soadm": false,
+    "listanegra": [
+      "556684217242@s.whatsapp.net",
+      "5521979991487@s.whatsapp.net",
+      "553398555568@s.whatsapp.net",
+      "559991620822@s.whatsapp.net",
+      "5511944230228@s.whatsapp.net",
+      "5511960776115@s.whatsapp.net",
+      "557781358073@s.whatsapp.net",
+      "553191641339@s.whatsapp.net",
+      "557583196955@s.whatsapp.net",
+      "5512982629851@s.whatsapp.net",
+      "554591244273@s.whatsapp.net",
+      "5511982284187@s.whatsapp.net"
+    ],
+    "advertir": [],
+    "prefixos": [
+      "!"
+    ],
+    "advertir2": [],
+    "legenda_estrangeiro": "0",
+    "legenda_documento": "0",
+    "legenda_video": "0",
+    "legenda_imagem": "0",
+    "multiprefix": false,
+    "forca_ofc": [
+      {
+        "acertos": 0,
+        "erros": 0,
+        "palavra": [],
+        "escreveu": [],
+        "palavra_ofc": 0,
+        "dica": 0,
+        "tema": 0
+      }
+    ],
+    "minerar_gold": [],
+    "ausentes": [],
+    "forca_inc": false,
+    "antipalavrao": {
+      "active": false,
+      "palavras": []
+    },
+    "limitec": {
+      "active": false,
+      "quantidade": null
+    },
+    "wellcome": [
+      {
+        "bemvindo1": true,
+        "legendabv": "Bem vindo ao grupo\n\n#numerodele#\n\n#nomedogp#\n\nse apresente conforme as regras",
+        "legendasaiu": 0
+      },
+      {
+        "bemvindo2": false,
+        "legendabv": "Olá #numerodele#, seja bem vindo (a)",
+        "legendasaiu": 0
+      }
+    ],
+    "simi1": false,
+    "simi2": false,
+    "autosticker": false,
+    "autoresposta": true,
+    "jogos": true,
+    "level": true,
+    "bangp": false,
+    "nsfw": false
+  }
+]
